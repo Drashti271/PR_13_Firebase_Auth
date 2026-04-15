@@ -17,6 +17,7 @@ This project is a simple authentication system built using **React (Vite)** and 
 
 ## 📁 Project Structure
 
+```
 PR_13_FIREBASE_AUTH/
 │── public/
 │── src/
@@ -38,6 +39,7 @@ PR_13_FIREBASE_AUTH/
 ├── package.json
 ├── vite.config.js
 └── README.md
+```
 
 ---
 
